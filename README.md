@@ -9,5 +9,5 @@ https://github.com/devic1/Nerf_pytorch_scratch/assets/64413800/0fa9cae7-ce23-440
 
 
 
-made by <a href="https://github.com/devic1">Devic1</a>
+made by <a href="https://github.com/devic1">Devic1</a> and <a href="https://github.com/Prajith19"> Prajith </a>
 
